@@ -1,6 +1,6 @@
 # UI Clone Discord
 
-O clone da interface do discord feito em React utilizando o TypeScrypt. O projeto pode ser visualizado clicando [AQUI]().
+O clone da interface do discord feito em React utilizando o TypeScrypt. O projeto pode ser visualizado clicando [AQUI](https://cranky-fermi-29166a.netlify.app/).
 
 ## Resultado
 <p align="center">
